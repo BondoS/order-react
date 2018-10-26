@@ -39,5 +39,3 @@ StorePicker.contextTypes = {
 }
 
 export default StorePicker;
-
-// render(<StorePicker/>, document.querySelector('#main'));

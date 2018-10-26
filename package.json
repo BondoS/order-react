@@ -5,12 +5,14 @@
   "dependencies": {
     "autoprefixer-stylus": "^0.14.0",
     "concurrently": "^4.0.1",
+    "firebase": "^5.5.6",
     "history": "^4.7.2",
     "prop-types": "^15.6.2",
     "re-base": "^4.0.0",
     "react": "^16.5.2",
     "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.5.2",
+    "react-firebaseui": "^3.1.2",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.0.5"
