@@ -1,3 +1,10 @@
+You can check this project on http://order-react.aserag.com/
+
+- Login & Create your own store, load sample fishes, add, edit, delete items, all saved on firebase.
+- Remember your store URL and log in again any time anywhere and continue editing
+- I was following Wesbos react tutorials https://reactforbeginners.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
