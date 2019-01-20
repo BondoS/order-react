@@ -1,4 +1,3 @@
-You can check this project on http://order-react.aserag.com/
 
 - Login & Create your own store, load sample fishes, add, edit, delete items, all saved on firebase.
 - Remember your store URL and log in again any time anywhere and continue editing
