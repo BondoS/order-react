@@ -1,3 +1,6 @@
+This project is live on https://order-react-learn.firebaseapp.com/
+and has been build from scratch while following Wes Bos tutorial https://reactforbeginners.com/ 
+
 
 - Login & Create your own store, load sample fishes, add, edit, delete items, all saved on firebase.
 - Remember your store URL and log in again any time anywhere and continue editing
